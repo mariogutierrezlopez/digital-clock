@@ -9,10 +9,12 @@ Made by [@mariogutierrezlopez](https://www.github.com/mariogutierrezlopez)
 
 ## Features and things I have learnt
 
-- setInterval() JS function to loop code
+- `setInterval()` JS function to loop code
 - SVG format with style attributes
-- practice with transform: `rotate( deg)` using maths to calculate the degrees
+- practice with `transform: rotate( deg)` using maths to calculate the degrees
 - Responsive design
+- Using JS `new Date().getHours()` `new Date().getMinutes()` `new Date().getSeconds()` functiones to get the actual time
+- Transformation from am-pm
 
 
 ## Support
