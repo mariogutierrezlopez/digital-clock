@@ -22,4 +22,4 @@ For support, email marioguti033@gmail.com
 Open it with [VS live sever](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or your browser of choice
 
 ## Resources I have used
- - [Copy to clipboard](https://www.youtube.com/watch?v=eoSfzVz9ur0)
+ - [Video tutorial](https://www.youtube.com/watch?v=eoSfzVz9ur0)
